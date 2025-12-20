@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'AVA';
+    src: url('AVA.woff2') format('woff2'),
+        url('AVA.woff') format('woff'),
+        url('AVA.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
